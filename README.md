@@ -1,5 +1,5 @@
 # CSCI5409---Project---StoreApp
-NodeJS Web Application to accept orders online.
+NodeJS Web Application to accept online orders from Order App.
 
 This project was developed as a part of a team project under the course CSCI5409 Cloud Computing.
 The basic function of StoreApp Company is to manage available products and also accept orders from the Order App. 
